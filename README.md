@@ -1,8 +1,15 @@
 ### Olá! Eu sou o Yan Resende 🤙🏻
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yanresendebr)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yanresende" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yanresende&layout=compact&langs_count=8&card_width=320" />
+</a>
+<br/>
+<br/>
 
-![Yanresende GitHub stats](https://github-readme-stats.vercel.app/api?username=yanresende&show_icons=true&theme=tokyonight)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yanresendebr)
 
 ## Tecnologias que eu uso no meu dia
 
